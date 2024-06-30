@@ -36,12 +36,6 @@ To deploy the contract, ensure you have the following:
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
-## Contributing
 
-Feel free to fork this repository, make improvements, and submit pull requests. Contributions are welcome!
-
-## Support
-
-For questions or issues related to the contract, please open an issue on GitHub or contact [maintainer-email].
